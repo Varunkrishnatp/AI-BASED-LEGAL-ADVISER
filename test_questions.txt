@@ -1,0 +1,59 @@
+🔴 Core Murder / Homicide (Section 302 vs 304)
+
+Rahul stabbed his friend during a fight and the victim died. What is the punishment?
+
+A man hit another with a stick in anger; death occurred unexpectedly. What section applies?
+
+A drunk driver killed a pedestrian. What is the legal punishment?
+
+Person planned a murder and executed it. What is the punishment?
+
+🟠 Assault & Hurt (323 / 324 / 326)
+
+A person slapped another causing minor injuries. What is the punishment?
+
+Acid was thrown on a person causing permanent damage. What section applies?
+
+A person attacked with a knife but the victim survived. What is the punishment?
+
+🟡 Theft, Robbery, Snatching (379 / 392 / 304 / 307 in your dataset)
+
+A man stole a mobile phone from a shop. What is the punishment?
+
+Chain snatching f   rom a woman on the road. What section applies?
+
+Armed robbery at night with a group. What is the punishment?
+
+Theft in a temple. What is the punishment?
+
+🟢 Sexual Offences
+
+Forceful sexual assault on a woman. What is the punishment?
+
+Sexual abuse of a minor girl. What is the section and punishment?
+
+🔵 False Information, Evidence & Obstruction
+
+A person gave false information to police about a crime. What is the punishment?
+
+A person destroyed evidence to save the accused. What is the punishment?
+
+🟣 Defamation, Threats & Insults
+
+A man threatened another with death. What is the punishment?
+
+A person spread false rumors damaging reputation. What is the punishment?
+
+🟤 Edge-Case Intelligence Tests (Very Important)
+
+These are to test your rule-router vs FAISS vs fallback logic:
+
+A man accidentally caused death without intention.
+
+A murder was committed under alcohol intoxication.
+
+A thief died during a robbery attempt—what happens to the attacker?
+
+A person killed someone in self-defense.
+
+A juvenile committed murder.
